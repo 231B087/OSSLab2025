@@ -1,16 +1,17 @@
 # OSSLab2025
 This repository contains lab exercises for the Open Source Software Lab - 2025
 
-Name: Bhoomi agarwal
-Enrollement No.: 231b087
-Email: 231b087@juetguna.in
+Name: Bhoomi agarwal <br>
+Enrollement No.: 231b087 <br>
+Email: 231b087@juetguna.in <br>
 
-#include<iostream>
-using namespace std;
+<br>
+#include<iostream> <br> 
+using namespace std; <br>
 
-int main(){
-	int a = 10,int b = 5;
-	cout<<"The addition of two number is: "<<a+b<<endl;
+int main(){ <br>
+	int a = 10,int b = 5; <br>
+	cout<<"The addition of two number is: "<<a+b<<endl; <br>
 
-	return 0;
+	return 0; <br>
 }
